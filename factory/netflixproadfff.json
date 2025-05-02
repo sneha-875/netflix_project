@@ -1,0 +1,9 @@
+{
+	"name": "netflixproadfff",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bbaab80d-c609-43be-8f81-1f4e4d36133c",
+		"tenantId": "18bb4a2f-3656-4408-ba29-8e020b096e78"
+	}
+}
