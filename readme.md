@@ -1,4 +1,3 @@
-Initialized by Azure Data Factory!
-Pipeline
+Pipleine in ADF
+![image](https://github.com/user-attachments/assets/28e119be-4152-40c6-8270-bba7c37db675)
 
-![image](https://github.com/user-attachments/assets/dbdbc757-20e5-4dbc-ab88-3875f1851e5d)
